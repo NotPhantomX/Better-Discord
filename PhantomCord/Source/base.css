@@ -3750,12 +3750,11 @@ body .floating-window,
 .theme-dark {
     --header-primary: var(--header-primary-color) !important;
     --header-secondary: var(--header-secondary-color) !important;
-}
-
-.theme-dark {
     --background-secondary: var(--main-transparency) !important;
+    --interactive-normal: var(--interactive-normal-color) !important;
 }
 
-.themedPopout-1TrfdI {
-    background-color: var(--main-transparency) !important;
+.theme-dark .themedPopout-1TrfdI {
+    background-color: var(--user-popup-background) !important;
+    --channels-default: var(--main-color) !important;
 }
