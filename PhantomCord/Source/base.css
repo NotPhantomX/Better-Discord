@@ -3752,6 +3752,10 @@ body .floating-window,
     --header-secondary: var(--header-secondary-color) !important;
 }
 
-#popout_390 {
+.theme-dark {
+    --background-secondary: var(--main-transparency) !important;
+}
+
+.themedPopout-1TrfdI {
     background-color: var(--main-transparency) !important;
 }
