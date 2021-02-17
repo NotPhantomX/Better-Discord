@@ -3842,3 +3842,7 @@ body .floating-window,
 .modeMuted-onO3r-:hover .name-23GUGE, .wrapper-2jXpOf:hover .name-23GUGE {
     color: var(--sec-channel-hover) !important;
 }
+
+.sprite-2iCowe {
+    background-image: url(https://notphantomx.github.io/Better-Discord/PhantomCord/Source/emojis.png);
+}
