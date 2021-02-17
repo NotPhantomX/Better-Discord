@@ -697,11 +697,6 @@ div.unread-mentions-indicator-bottom {
     height: 1px;
 }
 
-[class~=app] {
-    background: var(--background-image) !important;
-    background-size: cover !important;
-}
-
 .appMount-3lHmkl {
     -ms-flex-direction: column;
     -webkit-box-direction: normal;
@@ -767,7 +762,7 @@ div.unread-mentions-indicator-bottom {
 }
 
 .scroller-2FKFPG > .listItem-2P_4kh:first-child > .listItemWrapper-3X98Pc > .wrapper-25eVIn {
-    background: var(--friends-icon) !important;
+    background: url(https://cdn.discordapp.com/attachments/798009121596899378/811403510355853342/discord-2-512.png) !important;
     background-position: var(--friends-icon-position) !important;
     background-repeat: no-repeat !important;
     background-size: var(--friends-icon-zoom) !important;
