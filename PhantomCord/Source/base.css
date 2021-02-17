@@ -3830,7 +3830,3 @@ body .floating-window,
 .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
     background-color: rgba(185,187,190,.1) !important;
 }
-
-:root {
-    --bd-blue: var(--bandaged-color) !important;
-}
