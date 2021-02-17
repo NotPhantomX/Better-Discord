@@ -3737,7 +3737,7 @@ body .floating-window,
 }
 
 .theme-dark {
-    --channels-defualt: var(--channels-defualt-color) !important;
+    --channels-default: var(--channels-default-color) !important;
     --header-primary: var(--header-primary-color) !important;
     --header-secondary: var(--header-secondary-color) !important;
 }
