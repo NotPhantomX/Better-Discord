@@ -3760,9 +3760,9 @@ body .floating-window,
 }
 
 #GameActivityToggleBtn {
-    color: var(--main-color) !important;
+    color: var(--interactive-normal-color) !important;
 }
 
 .selected-1GqIat .icon-22AiRD {
-    color: var(--main-color) !important;
+    color: var(--interactive-normal-color) !important;
 }
