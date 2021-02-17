@@ -3736,7 +3736,11 @@ body .floating-window,
    border-radius: var(--borders-code-editors);
 }
 
-.theme-dark .name-23GUGE .name-uJV0GL .container-2Pjhx- {
+.theme-dark .name-23GUGE {
+    --channels-default: var(--sec-channels-color) !important;
+}
+
+.theme-dark .container-2Pjhx- {
     --channels-default: var(--sec-channels-color) !important;
 }
 
