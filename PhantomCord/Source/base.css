@@ -3740,10 +3740,6 @@ body .floating-window,
     --channels-default: var(--sec-channels-color) !important;
 }
 
-.name-uJV0GL {
-    --channels-default: var(--sec-channels-color) !important;
-}
-
 .theme-dark {
     --header-primary: var(--header-primary-color) !important;
     --header-secondary: var(--header-secondary-color) !important;
