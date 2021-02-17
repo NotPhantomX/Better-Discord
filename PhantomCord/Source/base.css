@@ -4,3 +4,9 @@ html {
 .container-2lgZY8 {
     background-color: rgba(0, 0, 0, 0);
 }
+.channels-Ie2l6A {
+    -ms-flex-negative: 0;
+    background-color: var(--main-transparency);
+    flex-shrink: 0;
+    width: 240px;
+}
