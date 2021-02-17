@@ -23,8 +23,8 @@
 
 :root {
     /* Main Settings */
-    /*--background-image: url(https://i.imgur.com/j1Z6HVc.jpg);*/ /*Changes the background*/
-    /*--friends-icon: url(https://i.imgur.com/63g6Em8.jpg);*/ /*Changes your friends icon image*/
+    --background-image: url(https://i.imgur.com/j1Z6HVc.jpg); /*Changes the background*/
+    --friends-icon: url(https://i.imgur.com/63g6Em8.jpg); /*Changes your friends icon image*/
     --friends-icon-position: center center; /*Changes your friends icon image position*/
     --friends-icon-zoom: 100%; /*Changes your friends icon image zoom, Defualt 100%*/
     --main-color: rgb(67, 181, 129); /*Changes the main theme color, Defualt: rgb(122, 8, 255)*/
