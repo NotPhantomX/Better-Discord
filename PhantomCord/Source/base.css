@@ -3844,5 +3844,6 @@ body .floating-window,
 }
 
 .sprite-2iCowe {
-    background-image: url(https://notphantomx.github.io/Better-Discord/PhantomCord/Source/emojis.png);
+    filter: grayscale(0%) !important;
+    background-image: url(https://notphantomx.github.io/Better-Discord/PhantomCord/Source/emojis.png) !important;
 }
