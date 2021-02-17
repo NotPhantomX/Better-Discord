@@ -3741,3 +3741,7 @@ body .floating-window,
     --header-primary: var(--header-primary-color) !important;
     --header-secondary: var(--header-secondary-color) !important;
 }
+
+.theme-dark .name-23GUGE {
+    --channels-defualt: var(--sec-channels-color) !important;
+}
