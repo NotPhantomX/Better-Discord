@@ -43,6 +43,7 @@
     --border-accents: hsla(268,100.0%,51.6%,0.25);
     --mention-background: rgba(122, 8, 255, 0); /*Change the background color of @'s; Default: rgba(122, 8, 255, 0)*/
     --mention-text: #7a08ff;
+    --link-color: #4d07ff;
 
     /* Shaped Borders */
     --borders-buttons-rounded: 0px; /*Border shapes for rounded buttons. 25px for circle, 0px for square*/
