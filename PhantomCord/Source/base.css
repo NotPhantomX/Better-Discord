@@ -3736,12 +3736,11 @@ body .floating-window,
    border-radius: var(--borders-code-editors);
 }
 
-.theme-dark {
-    --channels-default: var(--channels-default-color) !important;
-    --header-primary: var(--header-primary-color) !important;
-    --header-secondary: var(--header-secondary-color) !important;
+.theme-dark .name-23GUGE {
+    --channels-defualt: var(--sec-channels-color) !important;
 }
 
-.name-23GUGE {
-    --channels-defualt: var(--sec-channels-color) !important;
+.theme-dark {
+    --header-primary: var(--header-primary-color) !important;
+    --header-secondary: var(--header-secondary-color) !important;
 }
