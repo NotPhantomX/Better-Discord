@@ -763,9 +763,9 @@ div.unread-mentions-indicator-bottom {
 
 .scroller-2FKFPG > .listItem-2P_4kh:first-child > .listItemWrapper-3X98Pc > .wrapper-25eVIn {
     background: var(--friends-icon) !important;
-    background-position: var(--friends-icon-position) !important;
+    background-position: center center !important;
     background-repeat: no-repeat !important;
-    background-size: var(--friends-icon-zoom) !important;
+    background-size: 100% !important;
     border-radius: 100%;
 }
 
