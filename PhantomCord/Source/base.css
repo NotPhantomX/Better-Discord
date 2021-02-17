@@ -3740,6 +3740,10 @@ body .floating-window,
     --channels-defualt: var(--sec-channels-color) !important;
 }
 
+.name-23GUGE {
+    --channels-defualt: var(--sec-channels-color) !important;
+}
+
 .theme-dark {
     --header-primary: var(--header-primary-color) !important;
     --header-secondary: var(--header-secondary-color) !important;
