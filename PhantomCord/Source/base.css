@@ -3842,3 +3842,8 @@ body .floating-window,
 .modeMuted-onO3r-:hover .name-23GUGE, .wrapper-2jXpOf:hover .name-23GUGE {
     color: var(--sec-channel-hover) !important;
 }
+
+.buttonContainer-28fw2U .da-emojiButtonNormal .contents-18-Yxp .da-sprite {
+    background: var(--interactive-normal-color) !important;
+    filter: grayscale(100%);
+}
