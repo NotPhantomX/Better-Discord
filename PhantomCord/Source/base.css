@@ -3844,7 +3844,7 @@ body .floating-window,
 }
 
 .buttonContainer-28fw2U .da-emojiButtonNormal .contents-18-Yxp .da-sprite {
-    background: linear-gradient(0deg, var(--interactive-normal) 100%, var(--interactive-normal) 100%) !important;
+    background: linear-gradient(0deg, var(--interactive-normal) 0%, var(--interactive-normal) 0%) !important;
     background-color: white !important;
     background-blend-mode: multiply, luminosity !important;
     border-radius: 25px !important;
