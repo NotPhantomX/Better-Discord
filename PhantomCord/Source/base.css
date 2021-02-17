@@ -3736,7 +3736,7 @@ body .floating-window,
    border-radius: var(--borders-code-editors);
 }
 
-.name-23GUGE {
+.theme-dark .name-23GUGE {
     --channels-default: var(--sec-channels-color) !important;
 }
 
