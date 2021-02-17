@@ -3810,3 +3810,7 @@ body .floating-window,
 .theme-dark .mentioned-xhSam7 .mention, .theme-light .mentioned-xhSam7 .mention {
     background-color: var(--mention-background) !important;
 }
+
+.sidebar-CFHs9e {
+    --channel-default: var(--main-color) !important;
+}
