@@ -3834,3 +3834,11 @@ body .floating-window,
 .themed-OHr7kt .item-PXvHYJ:hover {
     color: var(--interactive-normal) !important;
 }
+
+.modeSelected-346R90 .name-23GUGE, .modeConnected-3IsKId .name-23GUGE {
+    color: var(--sec-channels-color) !important;
+}
+
+.modeMuted-onO3r-:hover .name-23GUGE, .wrapper-2jXpOf:hover .name-23GUGE {
+    color: var(--sec-channel-hover) !important;
+}

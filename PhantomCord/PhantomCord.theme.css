@@ -4,12 +4,8 @@
  * @version 1.0.0
  * @description A nice midnight styled theme
  * @source https://github.com/NotPhantomX/Better-Discord/tree/main/PhantomCord
- * @website 
- * @patreon 
  * @authorLink https://discordhub.com/profile/368438738138693642
- * @donate 
  * @authorId 368438738138693642
- * @invite
 */
 
 /* Source Code */
@@ -21,30 +17,30 @@
     --friends-icon: url(https://cdn.discordapp.com/attachments/798009121596899378/811403510355853342/discord-2-512.png); /*Change your friends icon image; Default: https://cdn.discordapp.com/attachments/798009121596899378/811403510355853342/discord-2-512.png*/
     --friends-icon-position: center center; /*Change your friends icon iamge position; Default: center center*/
     --friends-icon-zoom: 100%; /*Change your friends icon image zoom; Default: 100%*/
-    --font-size: 16px; /*Change chat messages font size, you can use any unit: px, em, rem, %; Default: 16px*/
+    --font-size: 14px; /*Change chat messages font size, you can use any unit: px, em, rem, %; Default: 14px*/
 
     /* Colors */
     --main-color: rgb(122, 8, 255); /*Change the main theme color; Default: rgb(122, 268, 255)*/
     --main-transparency: rgba(0, 0, 0, 0.8); /*Change global transparency; Default: rgba(0, 0, 0, 0.8)*/
     --hover-list-bg-color: rgba(255, 255, 255, .15); /*Change background color when you hover members or friends; Default: rgba(255, 255, 255, .15)*/
-    --border-lines-color: hsla(0,0%,100%,.1); /*Change the color of the borders between messages; Default: hsla(0,0%,100%,.1)*/
-    --scroll-bar-color: rgba(122,8,255, 1); /*Change the scroll bar color; Default: rgba(255,255,255, .15)*/
+    --border-lines-color: hsla(0,0%,100%,.1); /*Change the color of the borders between messages; Default: hsla(0, 0%, 100%, .1)*/
+    --scroll-bar-color: rgba(122, 8, 255, 1); /*Change the scroll bar color; Default: rgba(122,8,255, 1)*/
     --selected-text-voice-color: #f6f6f7; /*Change the text color of a selected text channel or joined voice channel; Default: #f6f6f7*/
     --channel-hover-text-color: rgba(255, 255, 255, 0.75);/*Change the text color of a hovered text or voice channel; Default: rgba(255, 255, 255, 0.75)*/
     --unread-text-color: #dcddde; /*Change the text color of an unread text channel; Default: #dcddde*/
-    --user-popup-background: rgb(19, 19, 19); /*Change the transparency of the user popout when clicking a member; Default: rgba(0, 0, 0, 0.8)*/
-    --header-primary-color: rgb(122, 8, 255);
-    --header-secondary-color: rgb(122, 8, 255);
-    --sec-channels-color: #a22dfc;
-    --interactive-normal-color: #a22dfc;
-    --text-color: #d54bff;
-    --muted-text-color: #6128ff;
-    --search-bar-background: rgba(255, 255, 255, 0.015);
-    --border-accents: hsla(268,100.0%,51.6%,0.25);
+    --user-popup-background: rgb(19, 19, 19); /*Change the transparency of the user popout when clicking a member; Default: rgb(19, 19, 19)*/
+    --header-primary-color: rgb(122, 8, 255); /*Change header colors; Defualt: rgb(122, 8, 255)*/
+    --header-secondary-color: rgb(122, 8, 255); /*Change secondary header colors; Defualt: rgb(122, 8, 255)*/
+    --sec-channels-color: #a22dfc; /*Change secondary channels color; Defualt: #a22dfc*/
+    --interactive-normal-color: #a22dfc; /*Change interactive(normal) colors; Defualt: #a22dfc*/
+    --text-color: #d54bff; /*Change text color; Defualt: #d54bff*/
+    --muted-text-color: #6128ff; /*Change text(muted) color; Defualt: #6128ff*/
+    --search-bar-background: rgba(255, 255, 255, 0.015); /*Change search bar background color; Defualt: rgba(255, 255, 255, 0.015)*/
+    --border-accents: hsla(268, 100%, 51.6%, 0.25); /*Change Border accents color; Defualt: hsla*268, 100%, 51.6%, 0.25)*/
     --mention-background: rgba(122, 8, 255, 0); /*Change the background color of @'s; Default: rgba(122, 8, 255, 0)*/
-    --mention-text: #7a08ff;
-    --link-color: #4d07ff;
-    --bd-blue: #a007ff;
+    --mention-text: #7a08ff; /*Change mentioned text color; Defualt: #7a08ff*/
+    --link-color: #4d07ff; /*Change link color; Defualt: #4d07ff*/
+    --bd-blue: #a007ff; /*Change BD colors; Defualt: #a007ff*/
 
     /* Shaped Borders */
     --borders-buttons-rounded: 0px; /*Border shapes for rounded buttons. 25px for circle, 0px for square*/
