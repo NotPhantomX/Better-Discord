@@ -3796,3 +3796,7 @@ body .floating-window,
 .container-3XJ8ns .combobox-3V1oCd {
     background-color: var(--user-popup-background) !important;
 }
+
+.container-cMG81i {
+    background-color: var(--search-bar-background) !important;
+}
