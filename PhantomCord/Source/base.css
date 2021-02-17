@@ -3830,3 +3830,7 @@ body .floating-window,
 .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
     background-color: rgba(185,187,190,.1) !important;
 }
+
+.theme-dark .side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ, .theme-dark .side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ:hover, .theme-dark .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ, .theme-dark .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ:hover {
+    background-color: rgba(185,187,190,.1) !important;
+}
