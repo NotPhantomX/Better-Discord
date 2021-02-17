@@ -32,6 +32,7 @@
     --header-primary-color: rgb(122, 8, 255); /*Change header colors; Defualt: rgb(122, 8, 255)*/
     --header-secondary-color: rgb(122, 8, 255); /*Change secondary header colors; Defualt: rgb(122, 8, 255)*/
     --sec-channels-color: #a22dfc; /*Change secondary channels color; Defualt: #a22dfc*/
+    --sec-channel-hover:  #f82dfc; /*Change secondary channels hover color; Default: #f82dfc*/
     --interactive-normal-color: #a22dfc; /*Change interactive(normal) colors; Defualt: #a22dfc*/
     --text-color: #d54bff; /*Change text color; Defualt: #d54bff*/
     --muted-text-color: #6128ff; /*Change text(muted) color; Defualt: #6128ff*/
