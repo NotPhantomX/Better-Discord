@@ -3801,3 +3801,8 @@ body .floating-window,
 .container-cMG81i {
     background-color: var(--search-bar-background) !important;
 }
+
+.wrapper-3WhCwL {
+    background-color: var(--mention-background) !important;
+    color: var(--mention-text) !important;
+}
