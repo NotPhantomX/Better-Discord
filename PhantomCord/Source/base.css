@@ -3826,3 +3826,7 @@ body .floating-window,
 .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
     background-color: rgba(185,187,190,.1) !important;
 }
+
+.selected-3s45Ha.item-PXvHYJ, .selected-3s45Ha.item-PXvHYJ:hover {
+    color: var(--interactive-normal) !important;
+}
