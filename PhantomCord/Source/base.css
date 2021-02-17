@@ -3830,3 +3830,7 @@ body .floating-window,
 .selected-3s45Ha.item-PXvHYJ, .selected-3s45Ha .item-PXvHYJ:hover {
     color: var(--interactive-normal) !important;
 }
+
+.themed-OHr7kt.item-PXvHYJ:hover {
+    color: var(--interactive-normal) !important;
+}
