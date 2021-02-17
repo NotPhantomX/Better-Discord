@@ -3736,11 +3736,11 @@ body .floating-window,
    border-radius: var(--borders-code-editors);
 }
 
-.theme-dark .name-23GUGE {
+.theme-dark .name-23GUGE .name-uJV0GL {
     --channels-default: var(--sec-channels-color) !important;
 }
 
-.theme-dark .name-uJV0GL {
+.name-uJV0GL {
     --channels-default: var(--sec-channels-color) !important;
 }
 
