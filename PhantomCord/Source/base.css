@@ -3758,3 +3758,11 @@ body .floating-window,
     background-color: var(--user-popup-background) !important;
     --channels-default: var(--main-color) !important;
 }
+
+#GameActivityToggleBtn {
+    color: var(--main-color) !important;
+}
+
+.selected-1GqIat .icon-22AiRD {
+    color: var(--main-color) !important;
+}

@@ -32,7 +32,7 @@
     --selected-text-voice-color: #f6f6f7; /*Change the text color of a selected text channel or joined voice channel; Default: #f6f6f7*/
     --channel-hover-text-color: rgba(255, 255, 255, 0.75);/*Change the text color of a hovered text or voice channel; Default: rgba(255, 255, 255, 0.75)*/
     --unread-text-color: #dcddde; /*Change the text color of an unread text channel; Default: #dcddde*/
-    --user-popup-background: rgba(0, 0, 0, 0.8); /*Change the transparency of the user popout when clicking a member; Default: rgba(0, 0, 0, 0.8)*/
+    --user-popup-background: rgb(19, 19, 19); /*Change the transparency of the user popout when clicking a member; Default: rgba(0, 0, 0, 0.8)*/
     --header-primary-color: rgb(122, 8, 255);
     --header-secondary-color: rgb(122, 8, 255);
     --sec-channels-color: #a22dfc;
