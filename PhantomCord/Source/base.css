@@ -3752,6 +3752,7 @@ body .floating-window,
     --header-secondary: var(--header-secondary-color) !important;
     --background-secondary: var(--main-transparency) !important;
     --interactive-normal: var(--interactive-normal-color) !important;
+    --text-normal: var(--text-color) !important;
 }
 
 .themedPopout-1TrfdI {
