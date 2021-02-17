@@ -3827,6 +3827,6 @@ body .floating-window,
     background-color: rgba(185,187,190,.1) !important;
 }
 
-.selected-3s45Ha.item-PXvHYJ, .selected-3s45Ha.item-PXvHYJ:hover {
+.selected-3s45Ha.item-PXvHYJ, .selected-3s45Ha .item-PXvHYJ:hover {
     color: var(--interactive-normal) !important;
 }
