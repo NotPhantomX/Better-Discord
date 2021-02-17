@@ -3792,3 +3792,7 @@ body .floating-window,
 .theme-dark .arrow-gKvcEx {
     --channels-defualt: var(--sec-channel-color) !important;
 }
+
+.container-3XJ8ns {
+    background-color: var(--user-popup-background) !important;
+}
