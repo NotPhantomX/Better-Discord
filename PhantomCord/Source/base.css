@@ -3793,7 +3793,6 @@ body .floating-window,
     --channels-defualt: var(--sec-channel-color) !important;
 }
 
-.theme-dark .container-3XJ8ns {
+.container-3XJ8ns .combobox-3V1oCd {
     background-color: var(--user-popup-background) !important;
-    --background-primary: var(--user-popup-background) !important;
 }
