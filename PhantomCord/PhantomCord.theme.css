@@ -39,6 +39,7 @@
     --interactive-normal-color: #a22dfc;
     --text-color: #d54bff;
     --muted-text-color: #6128ff;
+    --search-bar-background: rgba(255, 255, 255, 0.015);
 
     /* Shaped Borders */
     --borders-buttons-rounded: 0px; /*Border shapes for rounded buttons. 25px for circle, 0px for square*/

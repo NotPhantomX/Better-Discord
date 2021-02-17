@@ -3780,3 +3780,7 @@ body .floating-window,
 .container-2ax-kl {
     color: var(--main-color);
 }
+
+.theme-dark .searchBar-3dMhjb {
+    background-color: var(--search-bar-background) !important;
+}
