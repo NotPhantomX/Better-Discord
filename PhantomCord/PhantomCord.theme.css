@@ -37,7 +37,8 @@
     --header-secondary-color: rgb(122, 8, 255);
     --sec-channels-color: #a22dfc;
     --interactive-normal-color: #a22dfc;
-    --text-color: #7a08ff;
+    --text-color: #d54bff;
+    --muted-text-color: #6128ff;
 
     /* Shaped Borders */
     --borders-buttons-rounded: 0px; /*Border shapes for rounded buttons. 25px for circle, 0px for square*/
