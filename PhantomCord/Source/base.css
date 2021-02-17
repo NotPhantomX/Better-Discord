@@ -3814,3 +3814,11 @@ body .floating-window,
 .header-2RyJ0Y {
     color: var(--main-color) !important;
 }
+
+.theme-dark #bd-settings-sidebar .ui-tab-bar-header {
+    color: var(--main-color) !important;
+}
+
+.theme-dark #bd-settings-sidebar .ui-tab-bar-item {
+    color: var(--interactive-normal) !important;
+}
