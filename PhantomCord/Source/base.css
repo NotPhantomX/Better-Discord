@@ -3847,8 +3847,6 @@ body .floating-window,
     background: linear-gradient(0deg, var(--interactive-normal) 100%, var(--interactive-normal) 100%) !important;
     background-color: white !important;
     background-blend-mode: multiply, luminosity !important;
-    background-size: cover !important;
-    -webkit-transition: all 0.5s ease-in-out;
     border-radius: 25px !important;
     filter: grayscale(100%) !important;
 }
