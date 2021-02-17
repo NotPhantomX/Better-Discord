@@ -3844,6 +3844,7 @@ body .floating-window,
 }
 
 .buttonContainer-28fw2U .da-emojiButtonNormal .contents-18-Yxp .da-sprite {
-    background: var(--interactive-normal-color) !important;
-    filter: grayscale(100%);
+    background: linear-gradient(0deg, var(--interactive-normal) 100%, var(--interactive-normal) 100%) !important;
+    border-radius: 25px !important;
+    filter: grayscale(100%) !important;
 }
