@@ -3812,5 +3812,5 @@ body .floating-window,
 }
 
 .sidebar-CFHs9e .side-8zPYf6 .header-2RyJ0Y {
-    --channel-default: var(--main-color) !important;
+    color: var(--main-color) !important;
 }
