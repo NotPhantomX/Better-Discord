@@ -206,7 +206,10 @@ html {
     background-color: var(--scroll-bar-color);
 }
 
-
+[class~=app] {
+    background: var(--background-image) !important;
+    background-size: cover !important;
+}
 
 .theme-dark .message-group .comment .markup pre {
     background: rgba(0, 0, 0, 0.7);

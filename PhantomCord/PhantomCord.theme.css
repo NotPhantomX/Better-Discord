@@ -17,6 +17,7 @@
 
 :root {
     /* Main Settings */
+    --background-image: url(https://cdn.discordapp.com/attachments/798009121596899378/811446467021111325/Anime_1.jpg); /* Change the theme background; Default: https://cdn.discordapp.com/attachments/798009121596899378/811446467021111325/Anime_1.jpg*/
     --friends-icon: url(https://cdn.discordapp.com/attachments/798009121596899378/811403510355853342/discord-2-512.png); /*Change your friends icon image; Default: https://cdn.discordapp.com/attachments/798009121596899378/811403510355853342/discord-2-512.png*/
     --friends-icon-position: center center; /*Change your friends icon iamge position; Default: center center*/
     --friends-icon-zoom: 100%; /*Change your friends icon image zoom; Default: 100%*/
