@@ -3741,7 +3741,7 @@ body .floating-window,
 }
 
 .theme-dark .name-uJV0GL {
-    --channels-defual: var(--sec-channels-color) !important;
+    --channels-default: var(--sec-channels-color) !important;
 }
 
 .theme-dark {
