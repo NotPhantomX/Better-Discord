@@ -25,7 +25,6 @@
 
 :root {
     /* Border Shapes Settings */
-    --borders-avatars: 0%; /*Border shapes for avatars. 25px for circle, 0px for square*/
     --borders-buttons-rounded: 0px; /*Border shapes for rounded buttons. 25px for circle, 0px for square*/
     --borders-buttons-circle: 0px; /*Border shapes for circle buttons. 25px for circle, 0px for square*/
     --borders-switches: 0px; /*Border shapes for switches. 15px for circle, 0px for square*/
@@ -66,6 +65,7 @@
     --borders-navigation-highlight: 0px; /*Border shapes for navigation highlight when you press TAB. 25px for circle, 0px for square*/
     --borders-toasts: 0px; /*Border shapes for toasts. 25px for circle, 0px for square*/
     --borders-code-editors: 0px; /*Border shapes for code editors workspace. 10px for circle, 0px for square*/
+
     /* Radial Status Settings */
     --rs-small-spacing: 2px;  /* spacing between avatar and status */
     --rs-large-spacing: 3px;  /* spacing between avatar and status for user popouts & modals/profiles | MUST end in px */
