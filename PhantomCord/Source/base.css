@@ -3784,3 +3784,7 @@ body .floating-window,
 .theme-dark .searchBar-3dMhjb {
     background-color: var(--search-bar-background) !important;
 }
+
+.theme-dark .addButtonIcon-2CbG1X .arrow-gKvcEx {
+    --channels-defualt: var(--sec-channels-color) !important;
+}
