@@ -13,9 +13,7 @@
 */
 
 /* Source Code */
-
-/* Radial Status */
-@import url('https://discordstyles.github.io/RadialStatus/base.css');
+@import url('https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css');
 
 /* Border Shapes */
 @import url('https://jaywilson7.github.io/BorderShapes/Source/base.css');
@@ -24,6 +22,23 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900');
 
 :root {
+    /* Main Settings */
+    /*--background-image: url(https://i.imgur.com/j1Z6HVc.jpg);*/ /*Changes the background*/
+    /*--friends-icon: url(https://i.imgur.com/63g6Em8.jpg);*/ /*Changes your friends icon image*/
+    --friends-icon-position: center center; /*Changes your friends icon image position*/
+    --friends-icon-zoom: 100%; /*Changes your friends icon image zoom, Defualt 100%*/
+    --main-color: rgb(67, 181, 129); /*Changes the main theme color, Defualt: rgb(122, 8, 255)*/
+    --main-transparency: rgba(0, 0, 0, 0.8); /*Changes global transparency, You can use this to make your background image lighter or darker, Default: rgba(0, 0, 0, 0.8)*/
+    --unread-server-animation: rainbow; /*Change the unread server animation. Replace it with "none" in order to remove any animations and use the main color instead, Defualt: rainbow*/
+    --hover-list-bg-color: rgba(255, 255, 255, .15); /* Changes background color when you hover members or friends, Defualt: rgba(255, 255, 255, .15)*/
+    --border-lines-color: hsla(0,0%,100%,.1); /*Changes the color of the borders between messages, Defualt: hsla(0,0%,100%,.1)*/
+    --scroll-bar-color: rgba(255,255,255, .15); /*Changes the scroll bar color, Default: rgba(255,255,255, .15)*/
+    --font-size: 16px; /*Change chat messages font size, you can use any unit: px, em, rem, %, Defualt: 16px*/
+    --selected-text-voice-color: #f6f6f7; /*Change the text color of a selected text channel or joined voice channel, Defualt: #f6f6f7*/
+    --channel-hover-text-color: rgba(255, 255, 255, 0.75); /*Changes the text color of a hovered text or voice channel, Default: rgba(255, 255, 255, 0.75)*/
+    --unread-text-color: #dcddde; /* Changes the text color of an unread text channel, Default: #dcddde*/
+    --user-popup-background: rgba(0, 0, 0, 0.8); /*Changes the transparency of the user popout when clicking a member, Default: rgba(0, 0, 0, 0.8)*/
+
     /* Border Shapes Settings */
     --borders-buttons-rounded: 0px; /*Border shapes for rounded buttons. 25px for circle, 0px for square*/
     --borders-buttons-circle: 0px; /*Border shapes for circle buttons. 25px for circle, 0px for square*/
@@ -42,7 +57,7 @@
     --borders-servers-default: 0%; /*Border shapes for server icons and circle buttons on server side. 50% for circle, 0% for square*/
     --borders-servers-interactive: 0%; /*Border shapes for hovered or selected elements mentioned in previous description. 50% for circle, 0% for square*/
     --borders-folders: 0px; /*Border shapes for server folders. 35px for circle, 0px for square*/
-    --borders-avatars: 0%; /*Border shapes for avatars. 50% for circle, 0% for square*/
+    --borders-avatars: 0% !important; /*Border shapes for avatars. 50% for circle, 0% for square*/
     --borders-icons-default: 0%; /*Border shapes for icons that have width equal height. 50% for circle, 0% for square*/
     --borders-icons-wide: 0px; /*Border shapes for icons that have more width than height. 5px for circle, 0px for square*/
     --borders-labels-large: 0px; /*Border shapes for large text and number indicators. 15px for circle, 0px for square*/
@@ -65,16 +80,4 @@
     --borders-navigation-highlight: 0px; /*Border shapes for navigation highlight when you press TAB. 25px for circle, 0px for square*/
     --borders-toasts: 0px; /*Border shapes for toasts. 25px for circle, 0px for square*/
     --borders-code-editors: 0px; /*Border shapes for code editors workspace. 10px for circle, 0px for square*/
-
-    /* Radial Status Settings */
-    --rs-small-spacing: 2px;  /* spacing between avatar and status */
-    --rs-large-spacing: 3px;  /* spacing between avatar and status for user popouts & modals/profiles | MUST end in px */
-    --rs-width: 2px;  /* Width/thickness of status border */
-    --rs-avatar-shape: 50%;  /* 50% for round - 0% for square */
-    --rs-online-color: #43b581;  /* color for online status */
-    --rs-idle-color: #faa61a;  /* color for idle status */
-    --rs-dnd-color: #f04747;  /* color for dnd status */
-    --rs-offline-color: #636b75;  /* color for offline status */
-    --rs-streaming-color: #643da7;  /* color for streaming status */
-    --rs-invisible-color: #747f8d;  /* color for invisible status - Note this will only show for your own invisibility */
 }
