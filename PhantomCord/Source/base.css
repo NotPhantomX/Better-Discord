@@ -3751,3 +3751,7 @@ body .floating-window,
     --header-primary: var(--header-primary-color) !important;
     --header-secondary: var(--header-secondary-color) !important;
 }
+
+#popout_390 {
+    background-color: var(--main-transparency) !important;
+}
