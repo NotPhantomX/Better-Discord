@@ -3832,5 +3832,5 @@ body .floating-window,
 }
 
 .themed-OHr7kt .item-PXvHYJ:hover {
-    color: var(--interactive-normal);
+    color: var(--interactive-normal) !important;
 }
