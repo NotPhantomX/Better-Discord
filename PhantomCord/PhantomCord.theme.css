@@ -2,8 +2,8 @@
  * @name PhantomCord
  * @author PhantomX
  * @version 1.0.0
- * @description 
- * @source 
+ * @description A nice midnight styled theme
+ * @source https://github.com/NotPhantomX/Better-Discord/tree/main/PhantomCord
  * @website 
  * @patreon 
  * @authorLink https://discordhub.com/profile/368438738138693642
@@ -23,7 +23,7 @@
 
 :root {
     /* Main Settings */
-    --background-image: url(https://i.imgur.com/j1Z6HVc.jpg); /*Changes the background*/
+    /*--background-image: url(https://i.imgur.com/j1Z6HVc.jpg);*/ /*Changes the background*/
     --friends-icon: url(https://i.imgur.com/63g6Em8.jpg); /*Changes your friends icon image*/
     --friends-icon-position: center center; /*Changes your friends icon image position*/
     --friends-icon-zoom: 100%; /*Changes your friends icon image zoom, Defualt 100%*/
