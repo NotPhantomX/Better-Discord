@@ -40,6 +40,7 @@
     --text-color: #d54bff;
     --muted-text-color: #6128ff;
     --search-bar-background: rgba(255, 255, 255, 0.015);
+    --border-accents: hsla(268,100.0%,51.6%,0.06);
 
     /* Shaped Borders */
     --borders-buttons-rounded: 0px; /*Border shapes for rounded buttons. 25px for circle, 0px for square*/
