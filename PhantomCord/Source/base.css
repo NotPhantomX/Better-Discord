@@ -3756,6 +3756,10 @@ body .floating-window,
     --text-muted: var(--muted-text-color) !important;
 }
 
+.wordmarkWindows-1v0lYD {
+    --text-muted: var(--interactive-normal-color) !important;
+}
+
 .themedPopout-1TrfdI {
     background-color: var(--user-popup-background) !important;
     --channels-default: var(--main-color) !important;
