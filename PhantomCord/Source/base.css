@@ -3820,7 +3820,7 @@ body .floating-window,
 }
 
 .theme-dark #bd-settings-sidebar .ui-tab-bar-item {
-    color: var(--interactive-normal) !important;
+    color: var(--interactive-normal-color) !important;
 }
 
 .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
@@ -3828,11 +3828,11 @@ body .floating-window,
 }
 
 .selected-3s45Ha.item-PXvHYJ, .selected-3s45Ha .item-PXvHYJ:hover {
-    color: var(--interactive-normal) !important;
+    color: var(--interactive-normal-color) !important;
 }
 
 .themed-OHr7kt .item-PXvHYJ:hover {
-    color: var(--interactive-normal) !important;
+    color: var(--interactive-normal-color) !important;
 }
 
 .modeSelected-346R90 .name-23GUGE, .modeConnected-3IsKId .name-23GUGE {
@@ -3844,8 +3844,7 @@ body .floating-window,
 }
 
 .buttonContainer-28fw2U .da-emojiButtonNormal .contents-18-Yxp .da-sprite {
-    background: linear-gradient(0deg, var(--interactive-normal) 0%, var(--interactive-normal) 0%) !important;
-    background-color: white !important;
+    background-color: var(--interactive-normal-color) !important;
     background-blend-mode: multiply, luminosity !important;
     border-radius: 25px !important;
     filter: grayscale(100%) !important;
