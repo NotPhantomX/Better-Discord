@@ -3754,7 +3754,7 @@ body .floating-window,
     --interactive-normal: var(--interactive-normal-color) !important;
 }
 
-.theme-dark .themedPopout-1TrfdI {
+.themedPopout-1TrfdI {
     background-color: var(--user-popup-background) !important;
     --channels-default: var(--main-color) !important;
 }
