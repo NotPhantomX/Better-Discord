@@ -3735,3 +3735,9 @@ body .floating-window,
 #app-mount .powercord-quickcss-editor-settings {
    border-radius: var(--borders-code-editors);
 }
+
+.theme-dark {
+    --channels-defualt: var(--channels-defualt-color);
+    --header-primary: var(--header-primary-color);
+    --header-secondary: var(--header-secondary-color);
+}
