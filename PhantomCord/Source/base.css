@@ -3736,12 +3736,8 @@ body .floating-window,
    border-radius: var(--borders-code-editors);
 }
 
-.theme-dark .name-23GUGE {
-    --channels-defualt: var(--sec-channels-color) !important;
-}
-
 .name-23GUGE {
-    --channels-defualt: var(--sec-channels-color) !important;
+    --channels-default: var(--sec-channels-color) !important;
 }
 
 .theme-dark {
