@@ -3759,7 +3759,7 @@ body .floating-window,
     --channels-default: var(--main-color) !important;
 }
 
-#GameActivityToggleBtn {
+#GameActivityToggleBtn .st0 {
     color: var(--interactive-normal-color) !important;
 }
 
