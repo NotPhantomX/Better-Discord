@@ -3803,6 +3803,9 @@ body .floating-window,
 }
 
 .wrapper-3WhCwL {
-    background-color: var(--mention-background) !important;
     color: var(--mention-text) !important;
+}
+
+.theme-dark .mentioned-xhSam7 .mention, .theme-light .mentioned-xhSam7 .mention {
+    background-color: var(--mention-background) !important;
 }
