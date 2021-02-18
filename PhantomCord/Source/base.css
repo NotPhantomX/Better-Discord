@@ -3847,3 +3847,13 @@ body .floating-window,
     filter: grayscale(0%) !important;
     background-image: url(https://notphantomx.github.io/Better-Discord/PhantomCord/Source/emojis.png) !important;
 }
+
+.theme-dark .root-1gCeng {
+    background-color: var(--user-popup-background) !important;
+}
+
+.theme-dark .footer-2gL1pp {
+    background-color: var(--user-popup-background) !important;
+    background: linear-gradient(0deg, #2f3136 0%, #2f3136 0%);
+    filter: multiply;
+}
